@@ -1,0 +1,7 @@
+parth99 = Parth Joe <parth66@gmail.com>
+tanmayck12 = Tanmay Kulkarni <tanmayckulkarni@gmail.com>
+s-bibhu = Bibhu Sahoo <tanck5848@gmail.com>
+p-sital = Sital Panigrahi <sital33@gmail.com>
+reshma-sharma = Reshma Sharma <reshma12@gmail.com>
+(no author) = gitsvn <gitsvn@gitsvn.com>
+VisualSVN Server = VisualSVN Server <visualsvn@gmail.com>
